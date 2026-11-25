@@ -1,0 +1,8 @@
+¿Cuál es el punto más débil de PGP?
+El punto más debil sería la passphrase, ya que es la parte que mas facilmente se puede conseguir por medio de fuerza bruta, siendo que el metodo de GPG ocupa un cifrado bastante complicado de romper con solo fuerza bruta.
+
+¿Cuándo es conveniente utilizar solamente cifrado simétrico?
+Cuando pocas personas van a descifrar el archivo, o cuando no se tienen muchos recursos de cifrado.
+
+¿En qué consiste el ciclo de vida del desarrollo de software seguro (etapa por etapa)?
+Planificación, Diseño, Desarrollo, Pruebas y Liberación.
